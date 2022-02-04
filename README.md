@@ -15,4 +15,6 @@
 ***Dislaimer***- If you are denied access to the dashboard please send me your email so that I can add you to the access group
 <br/>
 <br/>
-![Diversity Tracker dashboard](https://user-images.githubusercontent.com/73197748/152568560-a45b077b-685e-4687-acad-d5c5400adb17.png)
+![Diversity Tracker dashboard](https://user-images.githubusercontent.com/73197748/152568560-a45b077b-685e-4687-acad-d5c5400adb17.png)<br/>
+<br/>
+***DataSet*** - ```Available upon request (if no NDA applies)```
